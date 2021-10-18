@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jordan-streete
+- @jordan on slack
+- part of the BMS/envioller team
